@@ -1,0 +1,22 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Rohit,Prasad,35,"A-563, Rakshak Society","New Pune Road",Pune,Maharashtra,male
+Ananya,Deshmukh,28,Flat 204,"Galaxy Heights",Thane,Maharashtra,female,Designer
+Priya,Rao,23,"12 Main Street",,Chennai,Tamil Nadu,female,Teacher
+Suhas,Naik,40,Block A-2,"Sunrise Apartments",Goa,Goa,male,Doctor
+Tina,Dalvi,29,"8, Sea View",,Panaji,Goa,female,Engineer
+Ravi,Desai,34,"16 Palm Road","Sector 9",Kolkata,West Bengal,male,Analyst
+Jyoti,Reddy,35,"22 Hilltop","Block B",Hyderabad,Telangana,female,Professor
+Ashwin,Bose,31,"7, Old Town",,Kolkata,West Bengal,male,Engineer
+Leela,Kapoor,39,"9 Pearl Street",,Delhi,Delhi,female,Designer
+Meera,Joshi,42,12 Palm Avenue,,Bangalore,Karnataka,female,Architect
+Suhas,Naik,55,Block A-2,"Sunrise Apartments",Goa,Goa,male,Doctor
+Neha,Shah,41,77 Cherry Blvd,,Ahmedabad,Gujarat,female,Manager
+Tarun,Banerjee,45,"88 Palm Road","Sector 9",Kolkata,West Bengal,male,Analyst
+Divya,Iyer,50,"5A, Lotus Park",,Thiruvananthapuram,Kerala,female,Scientist
+Vandana,Mishra,65,"101, Maple St",,Varanasi,Uttar Pradesh,female,Supervisor
+Sanjay,Reddy,61,"22 Hilltop","Block B",Hyderabad,Telangana,male,Retired
+Aisha,Patel,16,"2B, Rose Villa","North Wing",Surat,Gujarat,female,Student
+Rohan,Verma,17,11 Oak Street,,Lucknow,Uttar Pradesh,male,Student
+Kavya,Nair,18,Flat 5,"Green Oaks",Kozhikode,Kerala,female,Student
+Manav,Gupta,19,9 Lemon Lane,,Indore,Madhya Pradesh,male,Student
+
