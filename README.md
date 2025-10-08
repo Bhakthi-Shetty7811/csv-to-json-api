@@ -46,7 +46,7 @@ A lightweight Node.js + Express application that automatically parses CSV files,
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/csv-to-json-api.git
+git clone https://github.com/Bhakthi-Shetty7811/csv-to-json-api.git
 cd csv-to-json-api
 ```
 
@@ -149,11 +149,6 @@ Ananya,Deshmukh,28,Flat 204,Thane,Maharashtra,female
 ---
 
 ## 🪶 Author
-
 **Bhakthi Shetty**
-B.Tech in Information Technology | Passionate about backend development, AI/ML, and data-driven applications.
 
----
 
-Would you like me to add a **short `LICENSE` file (MIT)** too, so it looks complete on GitHub?
-I can make it clean with your name in it.
